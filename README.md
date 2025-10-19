@@ -1,4 +1,4 @@
-
+F5
 <div align="center">
 
 # Aviator Predictor
@@ -65,6 +65,7 @@ This project is licensed under the [MIT License](LICENSE).
 ![cc9a48fa-cc15-4086-8fae-021956591330](https://github.com/MuckPro/aviat/assets/138373919/0f34bcdc-3450-4d1e-868c-1e45f0eed2dd)
 
 ![pro](https://github.com/MuckPro/aviat/assets/138373919/5cd95252-5b72-4007-92b9-c83f40a2f889)
+
 
 
 
